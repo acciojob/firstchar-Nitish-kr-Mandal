@@ -1,4 +1,5 @@
 function firstChar(text) {
+	return text.Char(0);
   // your code here
 }
 
